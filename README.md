@@ -1,6 +1,7 @@
 # 📘 PDF RAG Chatbot
 
 A fully featured **Retrieval-Augmented Generation (RAG)** application that reads PDF documents and answers user questions using **LangChain**, **ChromaDB**, and **Gradio**.  
+
 This project is designed as a **portfolio-quality AI engineering project**.
 
 ---
