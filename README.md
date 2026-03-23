@@ -59,7 +59,16 @@ This application allows users to upload a PDF and interact with it through natur
 ## 📂 Project Structure
 
 ```text
+
 📁 pdf-rag-chatbot
  ├── app.py
  ├── README.md
  └── requirements.txt  (optional)
+
+---
+
+## 👤 Author
+
+**Pomolefe (MastaBlasta867)**  
+📧 pomolefe1986@gmail.com  
+Distributed AI Engineer (in progress)
